@@ -1,6 +1,7 @@
-## Olá, eu sou a Ana!
+## Hello!
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anatroiano&layout=compact&theme=dracula)
+Full Stack Developer building web applications and APIs using Java, Spring Boot, Angular and TypeScript.
+Experience with REST APIs, service integration and PostgreSQL.
 
 ##
 
